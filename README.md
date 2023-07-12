@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jontavious, an <a href="https://linkedin.com/in/jontavious-pitts- bc-83a663254">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jontavious, an <a href="https://linkedin.com/in/jontaviouspitts">IT Professional</a>☺</h1>
 
 <h2> Information Technology Projects:</h2>
 
